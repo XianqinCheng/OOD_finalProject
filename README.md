@@ -13,7 +13,7 @@ Note: IDEA does not download the Community version, download the Ultimate versio
 
 Operation mode:
 
-1. Use the command git clone https://github.com/sqmax/springboot-project.git to clone the project locally.
+1. Use the command git clone https://github.com/XianqinCheng/OOD_finalProject.git to clone the project locally.
 2. Import the project into IDEA. In IDEA, File->open..., then select the project folder (springboot-project). If you are using spring boot for the first time, this process may take a while, and you need to download many dependent jar packages.
 3. Install lombok plugin for IDEA. In IDEA, File->Settings...->Plugin, search for lombok, and install it. When the project wiki introduces the log, it mentions why this plugin is installed.
 4. The configuration file of the project is in the resources directory, the application.yml file. Modify MySQL database connection information. My database account password is root, 123456, you can change it to yours.
